@@ -1,0 +1,12 @@
+{
+  "jadwal": {
+    "senin": [
+      { "matkul": "Basis Data", "jam": "08:00", "info": "Ruang 101" }
+    ],
+    "selasa": [],
+    "rabu": [],
+    "kamis": [],
+    "jumat": []
+  },
+  "tugas": []
+}
